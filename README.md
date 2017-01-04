@@ -5,4 +5,4 @@ Schemes (code styles, color schemes and so on) for JetBrains IDEs 2017.1+ (Intel
 Add Read-only Source: `Settings -> Tools -> Settings Repository -> Read-only Sources`
 <p align="center">
 ![Read-only Sources](settings-page.png)
-</p
+</p>
