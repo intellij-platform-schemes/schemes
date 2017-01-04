@@ -1,4 +1,4 @@
-# intellij-platform-schemes
+# Intellij Platform Schemes
 
 Schemes (code styles, color schemes and so on) for JetBrains IDEs 2017.1+ (IntelliJ IDEA, WebStorm, PhpStorm, PyCharm, RubyMine, AppCode, CLion, Gogland, Rider and Android Studio).
 
